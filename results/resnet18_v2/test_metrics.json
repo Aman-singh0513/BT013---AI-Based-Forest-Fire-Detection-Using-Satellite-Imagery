@@ -1,0 +1,9 @@
+{
+    "model": "ResNet-18 V2",
+    "test_images": 50,
+    "test_accuracy": 100.0,
+    "test_loss": 0.012151583826635034,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "best_validation_accuracy": 99.56709956709956
+}

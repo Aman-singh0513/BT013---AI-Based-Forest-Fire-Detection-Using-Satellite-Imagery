@@ -1,0 +1,11 @@
+{
+    "model": "ResNet-18",
+    "task": "Fire vs Non-Fire Image Classification",
+    "test_images": 50,
+    "correct_predictions": 49,
+    "incorrect_predictions": 1,
+    "test_accuracy": 98.0,
+    "test_loss": 0.056839599609375,
+    "best_validation_accuracy": 99.78,
+    "best_epoch": 11
+}
