@@ -1,0 +1,22 @@
+# Datasets and archives
+dataset/
+datasets/
+YOLO_Dataset/
+*.zip
+*.7z
+
+# Python and notebook temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+*secret*
+*token*
+
+# Training checkpoints other than the selected best weights
+last.pt
+epoch*.pt
